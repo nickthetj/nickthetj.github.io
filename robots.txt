@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: http://nickthetj.github.io/sitemap.xml
-Host: nickthetj.github.io
+Sitemap: http://nicktjandra.github.io/sitemap.xml
+Host: nicktjandra.github.io

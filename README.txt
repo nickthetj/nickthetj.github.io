@@ -1,1 +1,1 @@
-My personal website made with Tilda
+Nick Tjandra's Portfolio website 
